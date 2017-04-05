@@ -1,0 +1,8 @@
+[{"room1":{"customer_id":"1","room_name":"Living Room","lamp":"off","tv":"on","roomLight":"on","acUnit":"61"},
+ "room2":{"customer_id":"1","room_name":"Dining Room","lamp":"on","tv":"on","roomLight":"on","acUnit":"77"},
+ "room3":{"customer_id":"1","room_name":"Dining Room","lamp":"on","tv":"on","roomLight":"on","acUnit":"55"},
+ "room4":{"customer_id":"1","room_name":"Kitchen","lamp":"off","tv":"off","roomLight":"off","acUnit":"55"},
+ "room5":{"customer_id":"2","room_name":"Living Room","lamp":"on","tv":"on","roomLight":"on","acUnit":"71"},
+ "room6":{"customer_id":"2","room_name":"Master Bedroom","lamp":"off","tv":"off","roomLight":"off","acUnit":"75"},
+ "room7":{"customer_id":"3","room_name":"Basement","lamp":"on","tv":"on","roomLight":"on","acUnit":"71"},"room8":{"customer_id":"3","room_name":"Master Bedroom","lamp":"off","tv":"off","roomLight":"off","acUnit":"75"},"room9":{"customer_id":"4","room_name":"Master Bedroom","lamp":"off","tv":"off","roomLight":"off","acUnit":"55"},"room10":{"customer_id":"4","room_name":"Living Room","lamp":"on","tv":"on","roomLight":"on","acUnit":"73"},"room11":{"customer_id":"4","room_name":"Bathroom","lamp":"off","tv":"on","roomLight":"off","acUnit":"68"},"room12":{"customer_id":"5","room_name":"Guest Bedroom","lamp":"off","tv":"on","roomLight":"off","acUnit":"69"},"room13":{"customer_id":"5","room_name":"Living Room","lamp":"on","tv":"off","roomLight":"on","acUnit":"65"},"room14":{"customer_id":"6","room_name":"Master Bedroom","lamp":"off","tv":"off","roomLight":"off","acUnit":"77"},"room15":{"customer_id":"6","room_name":"Guest Bedroom","lamp":"on","tv":"off","roomLight":"off","acUnit":"64"}
+ }]
